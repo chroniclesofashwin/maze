@@ -1,0 +1,6 @@
+diffusers
+transformers
+accelerate
+torch
+torchvision
+git+https://github.com/guoyww/AnimateDiff.git
